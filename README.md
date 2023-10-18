@@ -1,5 +1,5 @@
 # Project-IMASS
-You can access each section of the project through the following links. To request access to any section, please send us a message.
+You can access each section of the project through the following links. To request access to any section, please send us a message to imaz.maxsens@gmail.com.
 
  🔷Front repository:
 https://github.com/IMAZTech/IMASS-Front
@@ -14,3 +14,7 @@ https://github.com/IMAZTech/IMASS-Logic
 🔶To test the demo version, please visit this address:
 https://maxsens.es/login   📈 📉
 You can log in to the website with your own email and the password "123" to access and use the demo version.
+
+
+
+IMAZ Technology innovation s.l.
