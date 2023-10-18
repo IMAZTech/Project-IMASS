@@ -13,7 +13,7 @@ https://github.com/IMAZTech/IMASS-Logic
 
 🔶To test the demo version, please visit this address:
 https://maxsens.es/login   📈 📉
-You can log in to the website with your own email and the password "123" to access and use the demo version.
+You can login to the website with your own email and the password "123" to access and use the demo version.
 
 
 
