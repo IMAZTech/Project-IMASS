@@ -7,7 +7,7 @@ https://github.com/IMAZTech/IMASS-Front
  🔷Backend repository:
 https://github.com/IMAZTech/IMAZZ-Backend
 
- 🔷Logic (AI) repository:
+ 🔷Logic (Image processing AI) repository:
 https://github.com/IMAZTech/IMASS-Logic
 
 
