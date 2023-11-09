@@ -1,4 +1,4 @@
-# Project-IMASS
+# Project-Maxsens
 You can access each section of the project through the following links. To request access to any section, please send us a message to imaz.maxsens@gmail.com.
 
  🔷Front repository:
